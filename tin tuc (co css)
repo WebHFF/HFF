@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h3 {
+  color: white;
+  margin-left: 20px;
+}
+div.img {
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
+}
+div.img:hover {
+    border: 1px solid #777;
+}
+div.img img {
+    width:100%;
+    height: auto;
+}
+div.desc {
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+</style>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HFF-HSGS Football Federation</title>
+  <link rel="stylesheet" type="text/css" href="cvh.css">
+  <link rel="shortcut icon" href=https://scontent.fhan4-1.fna.fbcdn.net/v/t1.0-9/16939297_804170259734630_5089106246313054780_n.jpg?oh=6795d45366e1ae2282c850e94599091a&oe=5A636349>
+</head>
+<body>
+    <!--header-->
+  <div class="header">
+    <h1><a href="HFF-HSGS Football Federation.html" target="_blank"><img src="https://scontent.fhan4-1.fna.fbcdn.net/v/t1.0-9/16939297_804170259734630_5089106246313054780_n.jpg?oh=6795d45366e1ae2282c850e94599091a&oe=5A636349"></a></h1>
+  </div>
+  <!-- end header -->
+
+  <!-- navigation bar-->
+  <div class="topnav">
+    <ul>
+        <li><a href="Hồ sơ cầu thủ.html" target="_blank">Hồ sơ cầu thủ</a></li>
+        <li><a href="#">Tin tức</a></li>
+        <li><a href="#">Hướng dẫn</a></li>
+        <li><a href="#">Video</a></li>
+    </ul>
+  <!-- end navigation bar -->
+  </div>
+<h3> Hồ sơ các cầu thủ của HFF <h3>
+
+
+<body>
+
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22549700_934204990064489_6734603441859085731_n.jpg?oh=613a1f6fb2b4d01333e441434179aa3a&oe=5A9D42B3">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22539862_935359259949062_5681162588047370539_n.jpg?oh=5b2f7c8e46b98acabbe7a8a51665aa3d&oe=5A9DDEE7">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22489890_933755483442773_5174745665048447401_n.jpg?oh=eeab3565a96b4978c2c4aec07680a322&oe=5AADCB1B">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22489773_933755556776099_1376775103879986137_n.jpg?oh=fb6ff4e0ef056ac841a53b5d31cf34fe&oe=5AA4B8B3">
+
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+
+
+
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22539770_933763483441973_5735069429262702862_n.jpg?oh=d28ea4e1d46de0f62f1d566342eceba3&oe=5A68E1B7">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22552759_934204986731156_159027824862282255_n.jpg?oh=1b4b07441b0992d7c35a9009c0fb9dfa&oe=5A98BA86">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22540001_935359146615740_9101680068237118676_n.jpg?oh=9187b73c62f2f97b8713642b324768ee&oe=5A93B5A0">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22540135_935359153282406_7100582533080369091_n.jpg?oh=178eb0ba290a9193408bd1bf26cc3205&oe=5A94065F">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22687618_935359149949073_8165817583464748255_n.jpg?oh=0ddf311c1cadee46babe032ab6afe786&oe=5A65662F">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+
+    <div class="img">
+
+           <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/22519310_935359256615729_7572602025983541588_n.jpg?oh=6821f09d5ab999b692717801fca711f6&oe=5A66760C">
+
+        <div class="desc">Đặt tiêu đề cho hình ảnh tại đây</div>
+    </div>
+
+
+
+
+
+
+
+</body>
+</html>
