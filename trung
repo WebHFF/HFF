@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HFF-HSGS Football Federation</title>
+  <link rel="stylesheet" type="text/css" href="cvh.css">
+  <link rel="shortcut icon" href="img/Logo.jpg" >
+ </head>
+ <body>
+   <!--header-->
+   <div class="header">
+     <h1><a href="/HFF" target="_blank"><img src="img/Logo.jpg"/></a></h1>
+   </div>
+   <!-- end header -->
+
+   <!-- navigation bar-->
+   <div class="topnav">
+     <ul>
+         <li><a href="/information">Hồ sơ cầu thủ</a></li>
+         <li><a href="/tin-tuc">Tin tức</a></li>
+         <li><a href="/video">Video</a></li>
+    </ul>
+   <!-- end navigation bar -->
+   </div>
+
+ <div id="tintuc">
+   <h2>THPT Dương Xá vượt qua THPT Nguyễn Tất Thành sau bữa tiệc bóng đá</h2>
+   <h3> ANTD.VN - THPT Dương Xá và THPT Nguyễn Tất Thành đã tặng cho các khán giả một bữa tiệc bóng đá đầy cảm xúc, và kết thúc bằng việc đại diện của Gia Lâm đoạt vé tứ kết trên chấm luân lưu 3,5m</h3>
+   <p>THPT Dương Xá (đỏ) được coi là "ngựa ô" của mùa giải năm nay và điều này một lần nữa được kiểm chứng khi họ gặp đối thủ rất mạnh là THPT Nguyễn Tất Thành</p>
+  <img src="http://image.anninhthudo.vn/h500/uploaded/83/2017_11_19/duong1.jpg" width="500px" height="400px">
+  <p> THPT Duong Xa (ao do) danh bai THPT NTT de tien vao vong tu ket </p>
+ </div>
+ </html>
